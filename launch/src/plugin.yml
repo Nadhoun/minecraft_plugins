@@ -1,0 +1,8 @@
+main: me.Nadhoun.launch.Main
+name: launch
+version: 1.0
+author: Nadhoun
+api-version: 1.16
+
+commands:
+  launch:
